@@ -9,13 +9,13 @@ Thank you for downloading this project! To run it locally, please follow these s
 1. Download the ZIP file**: First, download the provided ZIP file of the project.
 2. Extract the ZIP file**: Once downloaded, extract the ZIP file into a folder of your choice.
 
-  Step 2: Create a Firebase Project
+ ### Step 2: Create a Firebase Project
 
 1. Create a Firebase Project: 
    - Go to [Firebase Console](https://console.firebase.google.com/).
    - Create a new project and set up Firebase services like Firestore (for the database), Firebase Authentication, and Firebase Storage (for image storage).
    
-  Step 3: Install Firebase in Your Project
+ ### Step 3: Install Firebase in Your Project
 
 1. Install Firebase:
    - Inside the extracted project folder, run the following command to install Firebase:
@@ -23,7 +23,7 @@ Thank you for downloading this project! To run it locally, please follow these s
      npm install firebase
      ```
 
-  Step 4: Initialize Firebase
+ ### Step 4: Initialize Firebase
 
 1. Initialize Firebase:
    - After setting up Firebase, you will receive your Firebase configuration details (API keys, etc.).
@@ -41,7 +41,7 @@ Thank you for downloading this project! To run it locally, please follow these s
      ```
    - Save this file.
 
-  Step 5: Install Node Modules
+ ### Step 5: Install Node Modules
 
 1. Install Node Modules:
    - Run the following command to install all required dependencies (including Firebase and other libraries):
@@ -49,7 +49,7 @@ Thank you for downloading this project! To run it locally, please follow these s
      npm install
      ```
 
-  Step 6: Run the Project
+### Step 6: Run the Project
 
 1. Run the Project:
    - After setting up Firebase and installing the dependencies, you can run the project by using:
