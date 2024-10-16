@@ -4,7 +4,7 @@ a detailed README file to run the project:
 
 Thank you for downloading this project! To run it locally, please follow these steps:
 
-  Step 1: Download and Extract
+ ### Step 1: Download and Extract
 
 1. Download the ZIP file**: First, download the provided ZIP file of the project.
 2. Extract the ZIP file**: Once downloaded, extract the ZIP file into a folder of your choice.
